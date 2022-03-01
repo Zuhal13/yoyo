@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 312eb3c37a8b553489ad3dfeb09c3613
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 8308615558773152251
+    second: Nuvole.008|Block .016Action
+  - first:
+      74: 4669108506118105546
+    second: Nuvole.008|Block .016Action.001
+  - first:
+      74: -3052916680076981235
+    second: Nuvole.008|Block .017Action
+  - first:
+      74: -2512561094695314390
+    second: Nuvole.008|Block .017Action.001
+  - first:
+      74: 5675074049875744900
+    second: Nuvole.008|Block .018Action
+  - first:
+      74: -8714012551093494831
+    second: Nuvole.008|Block .018Action.001
+  - first:
+      74: -8341996144426321843
+    second: Nuvole.008|Block .019Action
+  - first:
+      74: -5383042956191097130
+    second: Nuvole.008|Block .019Action.001
+  - first:
+      74: -6181968590719827628
+    second: Nuvole.008|Block .020Action
+  - first:
+      74: 1663158763451221739
+    second: Nuvole.008|Block .020Action.001
+  - first:
+      74: 1721203302350823076
+    second: Nuvole.008|CameraAction.001
+  - first:
+      74: -5726254193029902713
+    second: Nuvole.008|PlaneAction
+  - first:
+      74: 1748190431223067840
+    second: Nuvole.009|Block .016Action
+  - first:
+      74: -3704293198500428933
+    second: Nuvole.009|Block .016Action.001
+  - first:
+      74: -7785854874127483477
+    second: Nuvole.009|Block .017Action
+  - first:
+      74: -3586064491504538129
+    second: Nuvole.009|Block .017Action.001
+  - first:
+      74: 2074250369356085375
+    second: Nuvole.009|Block .018Action
+  - first:
+      74: 7901480161312490838
+    second: Nuvole.009|Block .018Action.001
+  - first:
+      74: 2217098244732158876
+    second: Nuvole.009|Block .019Action
+  - first:
+      74: 2156202756568424836
+    second: Nuvole.009|Block .019Action.001
+  - first:
+      74: -7349640502587862355
+    second: Nuvole.009|Block .020Action
+  - first:
+      74: -7133996495933221272
+    second: Nuvole.009|Block .020Action.001
+  - first:
+      74: -9016466289010485601
+    second: Nuvole.009|CameraAction.001
+  - first:
+      74: 3553015016514420546
+    second: Nuvole.009|PlaneAction
+  - first:
+      74: 608072311264517442
+    second: Nuvole.010|Block .016Action
+  - first:
+      74: -1883672839446378195
+    second: Nuvole.010|Block .016Action.001
+  - first:
+      74: -893747792180034263
+    second: Nuvole.010|Block .017Action
+  - first:
+      74: -8154293605637705177
+    second: Nuvole.010|Block .017Action.001
+  - first:
+      74: 1718311790522246256
+    second: Nuvole.010|Block .018Action
+  - first:
+      74: -6235609852115710564
+    second: Nuvole.010|Block .018Action.001
+  - first:
+      74: -4850029596996878032
+    second: Nuvole.010|Block .019Action
+  - first:
+      74: -6651392275736742010
+    second: Nuvole.010|Block .019Action.001
+  - first:
+      74: 340438877039997801
+    second: Nuvole.010|Block .020Action
+  - first:
+      74: 4704253699876617192
+    second: Nuvole.010|Block .020Action.001
+  - first:
+      74: -4641717846625247915
+    second: Nuvole.010|CameraAction.001
+  - first:
+      74: 7978241511415423288
+    second: Nuvole.010|PlaneAction
+  - first:
+      74: 5406577993452579026
+    second: Nuvole.011|Block .016Action
+  - first:
+      74: -5366659891644352878
+    second: Nuvole.011|Block .016Action.001
+  - first:
+      74: -444770027109345410
+    second: Nuvole.011|Block .017Action
+  - first:
+      74: -5413248610390607341
+    second: Nuvole.011|Block .017Action.001
+  - first:
+      74: -985771878812534987
+    second: Nuvole.011|Block .018Action
+  - first:
+      74: -2624172905479938314
+    second: Nuvole.011|Block .018Action.001
+  - first:
+      74: 9065010319503811077
+    second: Nuvole.011|Block .019Action
+  - first:
+      74: -1649246246337844577
+    second: Nuvole.011|Block .019Action.001
+  - first:
+      74: -8033359807692359981
+    second: Nuvole.011|Block .020Action
+  - first:
+      74: -1391924379078717637
+    second: Nuvole.011|Block .020Action.001
+  - first:
+      74: 653133921052100890
+    second: Nuvole.011|CameraAction.001
+  - first:
+      74: -6902144765788716279
+    second: Nuvole.011|PlaneAction
+  - first:
+      74: -7959280743042451280
+    second: Nuvole.012|Block .016Action
+  - first:
+      74: -1497885744428658053
+    second: Nuvole.012|Block .016Action.001
+  - first:
+      74: -7106937228259105624
+    second: Nuvole.012|Block .017Action
+  - first:
+      74: -1788239880673331630
+    second: Nuvole.012|Block .017Action.001
+  - first:
+      74: -827250436218726259
+    second: Nuvole.012|Block .018Action
+  - first:
+      74: 530846310589555665
+    second: Nuvole.012|Block .018Action.001
+  - first:
+      74: 4109356898051293441
+    second: Nuvole.012|Block .019Action
+  - first:
+      74: 8249581867131447035
+    second: Nuvole.012|Block .019Action.001
+  - first:
+      74: -3636688887799345872
+    second: Nuvole.012|Block .020Action
+  - first:
+      74: 3801417622867421128
+    second: Nuvole.012|Block .020Action.001
+  - first:
+      74: 3135999381128597534
+    second: Nuvole.012|CameraAction.001
+  - first:
+      74: -5137539215961482060
+    second: Nuvole.012|PlaneAction
+  - first:
+      74: -6127192663347619663
+    second: Nuvole.013|Block .016Action
+  - first:
+      74: 8531592464373991378
+    second: Nuvole.013|Block .016Action.001
+  - first:
+      74: -4185809832681411246
+    second: Nuvole.013|Block .017Action
+  - first:
+      74: -1466621558526741748
+    second: Nuvole.013|Block .017Action.001
+  - first:
+      74: -3646311479943253119
+    second: Nuvole.013|Block .018Action
+  - first:
+      74: -5513399622492782444
+    second: Nuvole.013|Block .018Action.001
+  - first:
+      74: 579423183966344052
+    second: Nuvole.013|Block .019Action
+  - first:
+      74: 7442103779881611141
+    second: Nuvole.013|Block .019Action.001
+  - first:
+      74: 6639973132408047038
+    second: Nuvole.013|Block .020Action
+  - first:
+      74: -7788383468138662265
+    second: Nuvole.013|Block .020Action.001
+  - first:
+      74: -3815368075999671949
+    second: Nuvole.013|CameraAction.001
+  - first:
+      74: 455973948748602136
+    second: Nuvole.013|PlaneAction
+  - first:
+      74: -5119728642996986967
+    second: Nuvole.014|Block .016Action
+  - first:
+      74: -2351364452540086686
+    second: Nuvole.014|Block .016Action.001
+  - first:
+      74: 7497815973042777688
+    second: Nuvole.014|Block .017Action
+  - first:
+      74: 6703852780320654981
+    second: Nuvole.014|Block .017Action.001
+  - first:
+      74: 4608783195755816025
+    second: Nuvole.014|Block .018Action
+  - first:
+      74: -3111659547624825143
+    second: Nuvole.014|Block .018Action.001
+  - first:
+      74: -7650596306156247282
+    second: Nuvole.014|Block .019Action
+  - first:
+      74: 2933173666820174054
+    second: Nuvole.014|Block .019Action.001
+  - first:
+      74: 4141464286253886434
+    second: Nuvole.014|Block .020Action
+  - first:
+      74: -6471875485525279266
+    second: Nuvole.014|Block .020Action.001
+  - first:
+      74: 7361733539377474918
+    second: Nuvole.014|CameraAction.001
+  - first:
+      74: -590153330381448569
+    second: Nuvole.014|PlaneAction
+  - first:
+      74: 1043103250083435934
+    second: Nuvole.015|Block .016Action
+  - first:
+      74: 6917359781428820308
+    second: Nuvole.015|Block .016Action.001
+  - first:
+      74: 2881716339785872512
+    second: Nuvole.015|Block .017Action
+  - first:
+      74: 5654834258056803466
+    second: Nuvole.015|Block .017Action.001
+  - first:
+      74: -8752936464195507417
+    second: Nuvole.015|Block .018Action
+  - first:
+      74: 4927318758595387619
+    second: Nuvole.015|Block .018Action.001
+  - first:
+      74: 5357090606076665957
+    second: Nuvole.015|Block .019Action
+  - first:
+      74: -4711896807204349682
+    second: Nuvole.015|Block .019Action.001
+  - first:
+      74: -3410841943556569720
+    second: Nuvole.015|Block .020Action
+  - first:
+      74: 6862509690636042018
+    second: Nuvole.015|Block .020Action.001
+  - first:
+      74: 3061165454357355998
+    second: Nuvole.015|CameraAction.001
+  - first:
+      74: 5088194794182544284
+    second: Nuvole.015|PlaneAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
